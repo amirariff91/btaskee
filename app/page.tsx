@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 
 export default function Home() {
@@ -54,7 +53,7 @@ export default function Home() {
           <h2 className="text-2xl md:text-4xl font-bold text-center mb-8 md:mb-12 tracking-tight">Executive Summary</h2>
           <div className="max-w-3xl mx-auto">
             <p className="text-gray-600 mb-8 text-lg leading-relaxed">
-              Building on bTaskee's successful operations in Vietnam, Thailand, and Indonesia, we're bringing our trusted home services to Malaysian families. With over 5 million completed tasks and a 97% customer satisfaction rate, we understand what makes a home truly pleasant.
+              Building on bTaskee&apos;s successful operations in Vietnam, Thailand, and Indonesia, we&apos;re bringing our trusted home services to Malaysian families. With over 5 million completed tasks and a 97% customer satisfaction rate, we understand what makes a home truly pleasant.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
               {[
